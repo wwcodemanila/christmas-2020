@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Silly Site`,
+    title: `WWCode Christmas Card 2020`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@kimberrypi`,
+    author: `@wwcodemanila`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -43,5 +43,5 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-  pathPrefix: "/silly-site",
+  pathPrefix: "/christmas-2020",
 }

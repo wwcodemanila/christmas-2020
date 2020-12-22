@@ -14,17 +14,6 @@ const Footer = () => {
           Gatsby
         </a>
       </p>
-      <p className="text-gray-50">
-        by{" "}
-        <a
-          href="https://twitter.com/kimberrypi"
-          target="_blank"
-          rel="noreferrer noopener"
-          className="font-bold"
-        >
-          @kimberrypi
-        </a>
-      </p>
     </footer>
   )
 }

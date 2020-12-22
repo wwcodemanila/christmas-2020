@@ -1,17 +1,16 @@
 import React, { Fragment } from "react"
 import PropTypes from "prop-types"
-import Footer from "./Footer"
+import bg from "images/temp-background.png"
 
 const Layout = ({ children }) => {
   return (
     <Fragment>
-      <section className="flex w-screen h-screen items-center justify-center sm:visible md:visible lg:invisible xl:invisible 2xl:invisible">
-        <h1 className="text-lg">You'll enjoy this better on desktop!</h1>
-      </section>
-      <main className="bg-gray-600 sm:invisible md:invisible lg:visible xl:visible 2xl:visible">
-        {children}
+      <main
+        className="bg-no-repeat bg-top bg-contain h-screen from-yellow-400 to-gray-400"
+        style={{ backgroundImage: `url(${bg})` }}
+      >
+        <section className="sm:p2 md:p-4 lg:p-10 2xl:p-10">{children}</section>
       </main>
-      <Footer />
     </Fragment>
   )
 }
