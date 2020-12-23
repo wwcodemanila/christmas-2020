@@ -4,12 +4,8 @@
     "message": "Happy holidays, WWCode! Hopefully we'll see each other physically soon! 🎉"
   },
   {
-    "name": "Sally",
-    "message": "Merry Christmas & Happy New Year, WWCode!"
-  },
-  {
     "name": "Michie",
-    "message": "Merry Christmas, WWCode!"
+    "message": "Merry Christmas sa lahat! Hope oks lang kayo and sana magkita kits na tayo ulit next year in person!"
   },
   {
     "name": "Azel",
@@ -23,10 +19,7 @@
     "name": "Neca",
     "message": "WWCode Fam! Wishing you a magical and blissfull holiday! Hope you have a Merry Christmas and a Prosperous New Year."
   },
-  {
-    "name": "Ce",
-    "message": "Merry Pasko to you and yours ❤️🎄🎅🏻"
-  },
+
   {
     "name": "Ciela",
     "message": "Merry Christmas and Happy New Year WWCode Manila! Salamat Shopee, ahahaha ❤️"
@@ -44,6 +37,10 @@
     "message": "Merry Christmas! Sending lots of love your way."
   },
   {
+    "name": "Ce",
+    "message": "Merry Pasko to you and yours ❤️🎄🎅🏻"
+  },
+  {
     "name": "Nelly",
     "message": "Merry Christmas everyone! I hope your holiday season is full of peace, joy, and happiness."
   },
@@ -58,5 +55,9 @@
   {
     "name": "Christine",
     "message": "Happy holidays and have a wonderful New Year! Cheers to great teamwork!"
+  },
+  {
+    "name": "Sally",
+    "message": "Merry Christmas & Happy New Year, WWCode!"
   }
 ]
